@@ -1,3 +1,7 @@
+package ui;
+
+import Model.Picture;
+
 public class Output {
     Picture picture;
 

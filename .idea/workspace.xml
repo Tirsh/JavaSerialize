@@ -2,23 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00dd0313-f3e5-4e15-9c8d-05bbeb26636b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSerialize.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pic/picture1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pic/picture2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pic/picture3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Output.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Picture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Render.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Settings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/ColorSwitcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Loader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Serialize/LoadFromFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Serialize/SaveToFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Settings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/ConsoleInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Output.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/Output.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Picture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/Picture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Render.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/Render.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Settings.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +28,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -48,7 +49,9 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -80,6 +83,10 @@
       <updated>1674332246733</updated>
       <workItem from="1674332248015" duration="644000" />
       <workItem from="1674333785661" duration="2000000" />
+      <workItem from="1674335805001" duration="112000" />
+      <workItem from="1674379692426" duration="596000" />
+      <workItem from="1674387791128" duration="12438000" />
+      <workItem from="1674411176431" duration="2259000" />
     </task>
     <servers />
   </component>
