@@ -11,13 +11,13 @@ public class ColorSwitcher {
 
     private static final Map<String, String> COLORS = new HashMap<>();
     {
-        COLORS.put("BLACK", "\u001B[30m");
-        COLORS.put("RED", "\u001B[31m");
-        COLORS.put("GREEN", "\u001B[32m");
-        COLORS.put("YELLOW", "\u001B[33m");
-        COLORS.put("BLUE", "\u001B[34m");
-        COLORS.put("CYAN", "\u001B[36m");
-        COLORS.put("WHITE", "\u001B[37m");
+        COLORS.put("BLACK", "\033[30m");
+        COLORS.put("RED", "\033[31m");
+        COLORS.put("GREEN", "\033[32m");
+        COLORS.put("YELLOW", "\033[33m");
+        COLORS.put("BLUE", "\033[34m");
+        COLORS.put("CYAN", "\033[36m");
+        COLORS.put("WHITE", "\033[37m");
     }
     Settings settings;
 
